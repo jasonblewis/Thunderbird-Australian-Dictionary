@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>en-AU@dictionaries.addons.mozilla.org</em:id>
-    <em:version>2.1.2</em:version>
+    <em:version>2.1.2a</em:version>
     <em:targetApplication>
     <!-- Firefox -->
       <Description>
@@ -38,7 +38,7 @@
       </Description>
     </em:targetApplication>
     <em:name>English (Australian) Dictionary</em:name>
-    <em:description>I'm sick of all my favoUrite coloUrful language being marked incorrect.</em:description>
+    <em:description>Australian English Dictionary for Thunderbird and Firefox.</em:description>
     <em:creator>Cameron Roy</em:creator>
     <em:contributor>Kevin Atkinson</em:contributor>
     <em:contributor>David Bartlett</em:contributor>
@@ -47,7 +47,7 @@
     <em:contributor>Brian Kelk</em:contributor>
     <em:contributor>Jean Hollis Weber</em:contributor>
     <em:contributor>David Wilson</em:contributor>
-    <em:homepageURL>http://justcameron.com/incoming/en-au-dictionary/</em:homepageURL>
+    <em:homepageURL>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary</em:homepageURL>
     <em:unpack>true</em:unpack>
   </Description>
 </RDF>

@@ -1,4 +1,4 @@
-var err = initInstall("English (Australian) Dictionary", "en-AU@dictionaries.addons.mozilla.org", "2.1.1");
+var err = initInstall("English (Australian) Dictionary", "en-AU@dictionaries.addons.mozilla.org", "2.1.2a");
 if (err != SUCCESS)
     cancelInstall();
 
