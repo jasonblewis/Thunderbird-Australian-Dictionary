@@ -1,3 +1,7 @@
+-- Notes for 2.1.2a --
+
+   modified to allow instalation in TB5
+
 -- Notes for 2.1.2 --
 
 Fx 4 changes required a new version.
