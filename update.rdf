@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<r:RDF xmlns:r="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+       xmlns="http://www.mozilla.org/2004/em-rdf#">
+
+<!-- Australian English Dictionary -->
+<r:Description about="urn:mozilla:extension:{49cf76fb-1fe1-46f0-a6d8-affa552330e6}">
+  <updates>
+    <r:Seq>
+      <r:li>
+        <r:Description>
+          <version>2.1.3b</version>
+
+          <targetApplication>
+            <!-- Firefox -->
+            <r:Description>
+              <id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</id>
+              <minVersion>0.8</minVersion>
+              <maxVersion>8.*</maxVersion>
+              <updateLink>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/en-au-dictionary.xpi</updateLink>
+            </r:Description>
+          </targetApplication>
+
+          <targetApplication>
+            <!-- Thunderbird -->
+            <r:Description>
+              <id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</id>
+              <minVersion>0.8</minVersion>
+              <maxVersion>8.*</maxVersion>
+              <updateLink>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/en-au-dictionary.xpi</updateLink>
+            </r:Description>
+          </targetApplication>
+
+        </r:Description>
+      </r:li>
+    </r:Seq>
+  </updates>
+
+  <version>2.1.3b</version>
+  <updateLink>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/en-au-dictionary.xpi</updateLink>
+
+</r:Description>
+</r:RDF>
