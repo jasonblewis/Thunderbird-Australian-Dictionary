@@ -4,7 +4,9 @@
        xmlns="http://www.mozilla.org/2004/em-rdf#">
 
 <!-- Australian English Dictionary -->
-<r:Description about="urn:mozilla:extension:{49cf76fb-1fe1-46f0-a6d8-affa552330e6}">
+<r:Description about="urn:mozilla:extension:{49cf76fb-1fe1-46f0-a6d8-affa552330e6}"> 
+   <r:updateURL>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/update.rdf</em:updateURL>
+
   <updates>
     <r:Seq>
       <r:li>
