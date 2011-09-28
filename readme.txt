@@ -18,9 +18,9 @@ The Free Software Foundation, Inc.,
 
 This is a fork of the work of many people listed below. I have
 modified it to work with Thunderbird 5.* I can be contacted at jason
-at NOdicksonSPAM dot st. remove the letters NO SPAM to email me.
+at NOdicksonSPAM dot st. Remove the letters NO SPAM to email me.
 
-I can be contacted via email: en-au-dictionary [at] justcameron [period] com
+The original author can be contacted via email: en-au-dictionary [at] justcameron [period] com
 
 This dictionary was based on the Australian English Dictionary available from http://lingucomponent.openoffice.org/spell_dic.html (Licensed under the LGPL.) In turn, that dictionary was based on the en_GB Myspell dictionary which in turn was initially based on a subset of the original English wordlist created by Kevin Atkinson for Pspell and Aspell (also initially licensed under the LGPL.) 
 For more info, see changelog.txt

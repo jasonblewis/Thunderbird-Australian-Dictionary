@@ -1,3 +1,10 @@
+-- Notes for 3.0.2 --
+   * incremented major number and removed letter from version to enable
+   * auto updating
+   * created update.rdf file for auto updating
+   * made it work for FF and TB v8.*
+
+
 -- Notes for 2.1.2a --
 
    modified to allow instalation in TB5
