@@ -4,7 +4,7 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>{49cf76fb-1fe1-46f0-a6d8-affa552330e6}</em:id>
-    <em:version>0.0.1</em:version>
+    <em:version>3.0.1</em:version>
     <em:updateURL>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/update.rdf</em:updateURL>
     <em:targetApplication>
     <!-- Firefox -->
