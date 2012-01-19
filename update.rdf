@@ -11,14 +11,14 @@
     <r:Seq>
       <r:li>
         <r:Description>
-          <version>3.0.2</version>
+          <version>3.0.3</version>
 
           <targetApplication>
             <!-- Firefox -->
             <r:Description>
               <id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</id>
               <minVersion>0.8</minVersion>
-              <maxVersion>8.*</maxVersion>
+              <maxVersion>9.*</maxVersion>
               <updateLink>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/en-au-dictionary.xpi</updateLink>
             </r:Description>
           </targetApplication>
@@ -28,7 +28,7 @@
             <r:Description>
               <id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</id>
               <minVersion>0.8</minVersion>
-              <maxVersion>8.*</maxVersion>
+              <maxVersion>9.*</maxVersion>
               <updateLink>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/en-au-dictionary.xpi</updateLink>
             </r:Description>
           </targetApplication>

@@ -4,37 +4,38 @@
      xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
     <em:id>{49cf76fb-1fe1-46f0-a6d8-affa552330e6}</em:id>
-    <em:version>3.0.2</em:version>
+    <em:version>3.0.3</em:version>
+    <em:description>Australian English Dictionary for Firefox and Thunderbird.</em:description>
     <em:targetApplication>
-    <!-- Firefox -->
+      <!-- Firefox -->
       <Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
-    <em:minVersion>2.0</em:minVersion>
-    <em:maxVersion>8.*</em:maxVersion>
+        <em:minVersion>2.0</em:minVersion>
+        <em:maxVersion>9.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
-    <!-- Thunderbird -->
+      <!-- Thunderbird -->
       <Description>
         <em:id>{3550f703-e582-4d05-9a08-453d09bdfdc6}</em:id>
-    <em:minVersion>2.0</em:minVersion>
-    <em:maxVersion>8.*</em:maxVersion>
+        <em:minVersion>2.0</em:minVersion>
+        <em:maxVersion>9.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
-    <!-- SeaMonkey -->
+      <!-- SeaMonkey -->
       <Description>
         <em:id>{92650c4d-4b8e-4d2a-b7eb-24ecf4f6b63a}</em:id>
-    <em:minVersion>1.1a</em:minVersion>
-    <em:maxVersion>2.0.*</em:maxVersion>
+        <em:minVersion>1.1a</em:minVersion>
+        <em:maxVersion>2.0.*</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:targetApplication>
-    <!-- ChatZilla -->
+      <!-- ChatZilla -->
       <Description>
         <em:id>{59c81df5-4b7a-477b-912d-4e0fdf64e5f2}</em:id>
-    <em:minVersion>0.9.77</em:minVersion>
-    <em:maxVersion>0.9.90</em:maxVersion>
+        <em:minVersion>0.9.77</em:minVersion>
+        <em:maxVersion>0.9.90</em:maxVersion>
       </Description>
     </em:targetApplication>
     <em:name>English (Australian) Dictionary</em:name>
