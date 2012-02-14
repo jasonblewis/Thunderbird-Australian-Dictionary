@@ -31,7 +31,7 @@
               <minVersion>2.0</minVersion>
               <maxVersion>11.*</maxVersion>
               <updateLink>https://github.com/jasonblewis/Thunderbird-Australian-Dictionary/raw/master/en-au-dictionary.xpi</updateLink>
-			  <updateHash>621E8561C283CFABB9C99FA73B95AD77573C32F0</updateHash>
+			  <updateHash>sha1:621E8561C283CFABB9C99FA73B95AD77573C32F0</updateHash>
             </r:Description>
           </targetApplication>
 
